@@ -18,6 +18,11 @@ decryption keys (sometimes identical).</p>
    - Convert the numbered message into a matrix; its number of columns should fit the key matrix size, and its number of lines should be as small as possible,
    - Multiply the 2 matrices, and write the answer linearly to get the encrypted message.
 
+
+<h2> Instalation </h2>
+
+      git clone git@github.com:Yahia-Abdchafee-ADAM/103cipher.git
+
 <h2> Usage </h2>
 
 ![image](https://user-images.githubusercontent.com/91891487/182238991-c5509f9a-3074-4d21-8e2b-bbedad9c2a79.png)
