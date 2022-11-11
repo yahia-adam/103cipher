@@ -21,7 +21,8 @@ decryption keys (sometimes identical).</p>
 
 <h2> Instalation </h2>
 
-      git clone git@github.com:Yahia-Abdchafee-ADAM/103cipher.git
+      git clone git@github.com:Yahia-Abdchafee-ADAM/103cipher.git 103cipher
+      cd 103cipher
 
 <h2> Usage </h2>
 
